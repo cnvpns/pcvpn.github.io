@@ -62,6 +62,8 @@ ExpressVPN唯一的“缺点”就是价格会比一般VPN略高一点点，但�
 
 一句话总结：ExpressVPN就是目前中国用户电脑翻墙的天花板。无论你是追求速度、稳定，还是重视隐私、想看流媒体——ExpressVPN都能给到一等一的体验。如果预算允许，直接选它，省心省事。
 
+<p align="center"><a href="https://bit.ly/eps-vpn">立即获取ExpressVPN(30天免费试用)</a></p>
+
 ### 如何下载ExpressVPN电脑端APP客户端？
 
 这年头，ExpressVPN的名气有多大，懂行的人都清楚。正因为它在全球电脑VPN圈子里是块金字招牌，市面上冒出来的山寨官网、假冒APP也特别多。很多人一不小心，下载到的不是破解版客户端，就是带毒的软件，轻则隐私泄露，重则电脑中招，后果真不堪设想。
@@ -77,6 +79,8 @@ ExpressVPN官方下载地址如下：
 * Linux版：expressvpn.com/vpn-download/vpn-linux
 
 一句话总结：装电脑端VPN客户端，认准官网直下，别给假冒货留机会。这样不管翻墙还是保护隐私，才能真正做到踏实无忧。
+
+<p align="center"><a href="https://bit.ly/eps-vpn">立即获取ExpressVPN(30天免费试用)</a></p>
 
 ****
 
@@ -98,6 +102,8 @@ StrongVPN在兼容性方面也同样在线。支持Windows、Mac、Linux、iOS�
 
 简单说一句：如果你预算有限，又想要一款能常年稳定翻墙的电脑VPN，StrongVPN是非常值得考虑的PC端VPN选择。速度虽然比ExpressVPN略慢，但稳定性、安全性、兼容性、流媒体解锁、售后支持都在线，性价比很高。尤其是支持支付宝付款这一点，对国内用户非常友好。不追求极致体验，日常电脑翻墙、远程办公、跨区看剧，StrongVPN完全够用。
 
+<p align="center"><a href="https://bit.ly/stg-vpn">立即获取StrongVPN(可支付宝付款)</a></p>
+
 ****
 
 ### 电脑VPN（三）：PureVPN – 安全好用，价格便宜，每月仅需2.11美金
@@ -115,6 +121,8 @@ PureVPN的客户端对电脑端的支持也很全，Windows、Mac、Linux都能�
 在价格方面，PureVPN绝对算厚道。其两年套餐月均2.11美元，比大多数电脑VPN都便宜。31天无理由退款，试用期内不满意随时退，基本没风险。
 
 总的来说，PureVPN现在在中国的翻墙速度和稳定性确实不如ExpressVPN和StrongVPN，但在安全、功能、服务器覆盖和性价比方面依然有不少亮点。如果你是多设备党、预算有限或者追求各种进阶功能，PureVPN依然是值得考虑的电脑VPN软件。日常电脑翻墙、跨区看片、P2P下载这些场景，用它完全能应付。
+
+<p align="center"><a href="https://bit.ly/pe-vpn">立即获取PureVPN(每月2.11美金)</a></p>
 
 ****
 

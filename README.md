@@ -86,7 +86,7 @@ ExpressVPN官方下载地址如下：
 
 ****
 
-### 电脑VPN（二）：StrongVPN – 老牌VPN，每月3.97美金，支持支付宝付款
+### 电脑VPN（二）：<a href="https://bit.ly/stg-vpn">StrongVPN – 老牌VPN，每月3.97美金，支持支付宝付款</a>
 
 ![Windows电脑翻墙教程，2025最好用的PC端电脑VPN推荐：StrongVPN Banner](https://raw.githubusercontent.com/cnvpns/pcvpn.github.io/refs/heads/main/image/PCVPN-StrongVPN-Banner.png)
 
@@ -110,7 +110,7 @@ StrongVPN在兼容性方面也同样在线。支持Windows、Mac、Linux、iOS�
 
 ****
 
-### 电脑VPN（三）：PureVPN – 安全好用，价格便宜，每月仅需2.11美金
+### 电脑VPN（三）：<a href="https://bit.ly/pe-vpn">PureVPN – 安全好用，价格便宜，每月仅需2.11美金</a>
 
 ![Windows电脑翻墙教程，2025最好用的PC端电脑VPN推荐：PureVPN Banner](https://raw.githubusercontent.com/cnvpns/pcvpn.github.io/refs/heads/main/image/PCVPN-PureVPN-Banner.png)
 

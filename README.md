@@ -386,7 +386,7 @@ ProtonVPN的免费版虽然号称不限流量，但只能连少数几个国家�
 
 首先，建议优先选择国际大厂的付费VPN，例如ExpressVPN、StrongVPN等。这些服务不仅拥有强大的服务器网络和高效的解锁能力，还能通过不断的技术升级和节点优化，持续对抗中国的网络封锁。相比之下，免费电脑VPN以及各种破解版、第三方工具早已无法满足中国用户的实际需求，连接成功率低，速度慢，安全隐患多，因此不建议尝试。
 
-* 电脑VPN首选：<a href="https://bit.ly/eps-vpn">ExpressVPN</a> – 翻墙非常稳定，速度业内最快，30天免费
+* 电脑VPN（一）：<a href="https://bit.ly/eps-vpn">ExpressVPN</a> – 翻墙非常稳定，速度业内最快，30天免费
 * 电脑VPN（二）：<a href="https://bit.ly/stg-vpn">StrongVPN</a> – 老牌VPN，每月3.97美金，支持支付宝付款
 * 电脑VPN（三）：<a href="https://bit.ly/pe-vpn">PureVPN</a> – 安全好用，价格便宜，每月仅需2.11美金
 

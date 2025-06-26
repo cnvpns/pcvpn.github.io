@@ -1,4 +1,4 @@
-# Windows电脑翻墙教程：2025年最好用的PC端电脑VPN推荐！
+# Windows电脑翻墙教程：2025最好用的PC端电脑VPN推荐
 
 <p align="center">最近更新：2025年6月26日</p>
 

@@ -1,6 +1,6 @@
 # Windows电脑翻墙教程：2025最好用的PC端电脑VPN推荐
 
-<p align="center">最近更新：2025年9月16日</p>
+<p align="center">最近更新：2025年9月25日</p>
 
 现如今，虽然很多人用手机翻墙，但真要查资料、看高清视频、处理外贸和远程办公，还是得回归电脑。尤其是Windows系统，依然是大多数人上网、学习、娱乐的主力工具。可惜的是，中国好用的电脑VPN软件越来越少。大部分电脑版VPN，不是连不上，就是时快时慢，体验很差。你若在网上一搜，所谓的“永远连得上”和“永久免费”的PC端VPN一大堆，但它们中的绝大多数都是挂羊头卖狗肉，真用起来要么速度很烂，要么隐私得不到保障，甚至有的直接跑路。
 
@@ -427,6 +427,7 @@ ProtonVPN的免费版虽然号称不限流量，但只能连少数几个国家�
 * <a href="https://github.com/cnvpns/cnvpns.github.io">科学上网教程</a>：2025年最好用的翻墙软件和翻墙VPN推荐！
 * <a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN排行</a>：2025年在中国大陆最好用的中国VPN推荐！
 * <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
-* <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
-* <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的翻墙回国VPN推荐！
-* <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN国内还能用吗？
+* <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐(中国大陆可用)！
+* <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的国外翻墙回国内VPN推荐！
+* <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？
+* <a href="https://github.com/cnvpns/telegram.github.io">Telegram注册</a>：如何注册电报？Telegram收不到验证码怎么办？

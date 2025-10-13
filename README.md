@@ -431,3 +431,4 @@ ProtonVPN的免费版虽然号称不限流量，但只能连少数几个国家�
 * <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的国外翻墙回国内VPN推荐！
 * <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？
 * <a href="https://github.com/cnvpns/telegram.github.io">Telegram注册</a>：如何注册电报？Telegram收不到验证码怎么办？
+* <a href="https://github.com/cnvpns/tiktok.github.io">TikTok教程</a>：如何注册TikTok帐号？如何购买TikTok帐号？
